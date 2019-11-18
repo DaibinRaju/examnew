@@ -1,0 +1,7 @@
+#include<stdio.h>
+void main(){
+	int a=5;
+	int b=10;
+	b=a%10;
+	a=a+b;
+}

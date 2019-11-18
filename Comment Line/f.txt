@@ -1,0 +1,14 @@
+#include <stdio.h>
+void main(){
+int a=5;
+/* hello 
+comment1*/
+int b=10;
+printf("%d",a+b);
+
+// hello world
+//hohoho
+
+/* hello 
+comment2*/
+}
